@@ -1,0 +1,2 @@
+DATABASE_NAME = "Sambeet"
+COLLECTION_NAME = "sensor"
